@@ -1,0 +1,24 @@
+{
+  "name": "e_commerce",
+  "version": "1.0.0",
+  "description": "e_commerce website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayDhingra01/e_commerce_website.git"
+  },
+  "keywords": [
+    "e_commerce",
+    "mongoDb"
+  ],
+  "author": "akshay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayDhingra01/e_commerce_website/issues"
+  },
+  "homepage": "https://github.com/akshayDhingra01/e_commerce_website#readme"
+}
